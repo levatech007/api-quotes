@@ -36,7 +36,7 @@ Quote.create([
   {
     name: "Lady Gaga",
     quote: "Some women choose to follow men, and some women choose to follow their dreams. If you’re wondering which way to go, remember that your career will never wake up and tell you that it doesn’t love you anymore.",
-    image_url: "http://www.idolator.com/wp-content/uploads/sites/10/2016/08/lady-gaga-perfect-illusion-620x413.jpg"
+    image_url: "https://static.ticketmaster.fr/static/images/artiste/300_img.jpg"
   },
   {
     name: "Gloria Steinem",
@@ -46,7 +46,7 @@ Quote.create([
   {
     name: "Oprah Winfrey",
     quote: "Step out of the history that is holding you back. Step into the new story you are willing to create.",
-    image_url: "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/55-Unforgettable-Oprah-Winfrey-Quotes.jpg"
+    image_url: "https://www.americaninno.com/wp-content/uploads/wpallimport/files/1/2013/03/Oprah-Winfrey.jpg"
   },
   {
     name: "Audre Lorde",
@@ -56,7 +56,7 @@ Quote.create([
   {
     name: "Alice Walker",
     quote: "The most common way people give up their power is by thinking they don’t have any.",
-    image_url: "http://cdn.history.com/sites/2/2014/01/alice_walker.jpg"
+    image_url: "https://aalbc.com/reviews/alice-walker-headshot.jpg"
   },
   {
     name: "Maya Angelou",
@@ -66,7 +66,7 @@ Quote.create([
   {
     name: "Audrey Hepburn",
     quote: "For beautiful eyes, look for the good in others; for the beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.",
-    image_url: "http://statuepriceguide.com/wp-content/uploads/2017/01/audrey-Hepburn.png"
+    image_url: "https://i.pinimg.com/originals/16/fc/d1/16fcd1c3cbf155b0b014d003414225fd.jpg"
   },
   {
     name: "Lucille Ball",
@@ -86,7 +86,7 @@ Quote.create([
   {
     name: "Marilyn Monroe",
     quote: "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
-    image_url: "https://peopledotcom.files.wordpress.com/2017/06/marilyn-monroe-5.jpg?w=669"
+    image_url: "http://images6.fanpop.com/image/photos/37700000/Marilyn-Monroe-physical-beauty-37709201-382-500.jpg"
   },
   {
     name: "Bell Hooks",
@@ -101,7 +101,7 @@ Quote.create([
   {
     name: "JK Rowling",
     quote: "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-    image_url: "https://images.google.com/imgres?imgurl=http%3A%2F%2Fhypun.com%2Fwp-content%2Fuploads%2F2015%2F11%2Fjk-rowling-official-portrait-1024x1017.jpg&imgrefurl=http%3A%2F%2Fhypun.com%2F10-j-k-rowling-bombshells-concerning-harry-potter%2F&docid=CyUs390iGIrjUM&tbnid=-wI-pMfVjBWPZM%3A&vet=1&w=1024&h=1017&source=sh%2Fx%2Fim"
+    image_url: "https://speakerdata2.s3.amazonaws.com/photo/image/784153/1373927535000-PORT-JK-ROWLING-CUCKOO-BOOKS-jy-0849-1307151938_3_4.jpg"
   },
   {
     name: "Rose McGowan",
@@ -116,7 +116,7 @@ Quote.create([
   {
     name: "Lady Gaga",
     quote: "YAAS QUEEN YAAS.",
-    image_url: "http://assets.papelpop.com/wp-content/uploads/2017/05/lady-gaga.jpg"
+    image_url: "https://static.ticketmaster.fr/static/images/artiste/300_img.jpg"
   },
   {
     name: "Carrie Fisher",
