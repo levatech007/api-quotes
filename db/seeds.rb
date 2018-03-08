@@ -100,7 +100,7 @@ Quote.create([
   {
     name: "JK Rowling",
     quote: "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
-    image_url: "https://speakerdata2.s3.amazonaws.com/photo/image/784153/1373927535000-PORT-JK-ROWLING-CUCKOO-BOOKS-jy-0849-1307151938_3_4.jpg"
+    image_url: "http://redonline.cdnds.net/main/thumbs/30652/jkrowling__square.jpg"
   },
   {
     name: "Rose McGowan",
@@ -120,7 +120,7 @@ Quote.create([
   {
     name: "Carrie Fisher",
     quote: "Take your broken heart, make it into art.",
-    image_url: "https://pbs.twimg.com/media/DSA2NSDWsAEmG3c.jpg"
+    image_url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTE5NTU2MzE2NDc1MzkzNTQ3/carrie-fisher-9542646-1-402.jpg"
   },
   {
     name: "Coretta Scott King",
