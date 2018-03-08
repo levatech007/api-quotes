@@ -5,7 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Quote.destroy_all
 
 Quote.create([
   {
@@ -41,7 +40,7 @@ Quote.create([
   {
     name: "Gloria Steinem",
     quote: "The truth will set you free, but first it will piss you off.",
-    image_url: "https://i.imgur.com/E51egen.png"
+    image_url: "https://www.biography.com/.image/t_share/MTE5NTU2MzE2Mzc1OTc1NDM1/gloria-steinem-9493491-1-402.jpg"
   },
   {
     name: "Oprah Winfrey",
