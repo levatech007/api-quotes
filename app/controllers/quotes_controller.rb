@@ -5,6 +5,7 @@ class QuotesController < ApplicationController
   # GET /quotes.json
   def index
     @quotes = Quote.all
+    
   end
 
   # GET /quotes/1
